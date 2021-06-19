@@ -10,3 +10,6 @@ An app that contains the list of images with the preview of each and every image
 <img src="https://user-images.githubusercontent.com/79354923/122648508-3a8af300-d147-11eb-97bb-c35ac855c804.png" width="250">
 <img src="https://user-images.githubusercontent.com/79354923/122648517-41196a80-d147-11eb-883a-bd7200f33367.png" width="250">
 
+## Testing
+
+For testing the App install the RajasthanStudio.apk file in any Android Device.
